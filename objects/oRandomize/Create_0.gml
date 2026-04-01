@@ -1,0 +1,7 @@
+//randomize boss attacks
+randomize();
+
+
+
+
+
